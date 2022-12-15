@@ -1,5 +1,3 @@
-# monty
-Team Project with Terry
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 **About:** In this project, we created a simple interpreter for Monty ByteCodes. The interpreter reads a bytecode file and executes the bytecode commands.
 ### The Monty language
@@ -29,8 +27,3 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 * The C standard library is allowed
 * The prototypes of all the functions were included in the header file called monty.h
 * All the header files are include guarded
-
-## Instruction given:
-* To use the following data structures for this project, and to also include them in the header file.
-```
-/**
